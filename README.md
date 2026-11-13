@@ -1,5 +1,6 @@
 # WDM-Ex.No-9-Text-Preprocessing-on-Twitter-Data-using-Rapidminer
-**DATE:**<br>
+## Name : Yazhini E 
+## Reg no, : 2305002028 
 **AIM:**<br>
 To implement preprocessing technique on Twitter Data using Rapidminer<br>
 **Description:**<br>
